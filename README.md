@@ -1,2 +1,10 @@
 # flood-analysis
-No external code or other content has been used in this project, except where specifically provided in the assignment resources.
+
+Analysis of flooding data in Australia and New Zealand
+
+## Question 1
+
+Understand the shape of flooding data over time
+
+Hypotheses
+
