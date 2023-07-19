@@ -87,15 +87,28 @@ Tom
 
 
 ## Repository structure
-
-`/data` - Data extracts  
+The files are to be read in the following order:
+ 
 `ingest.ipynb` - Scripts to download, clean, and join data for subsequent analysis  
-`question_1.ipynb`  
-`question_2.ipynb`   
-`question_3.ipynb`   
-`question_4.ipynb`   
-`/plots` - Rendered plots  
+`question_taryn.ipynb`  
+`question_van.ipynb`   
+`question_anna.ipynb`   
+`question_tom.ipynb` 
+`/data` - Data extracts:
 
+'ORIGINAL_abs_cattle_totals_2020.xlsx' - herd size file downloaded from Australia Bureau of Statistics
+
+'abs_cattle_totals_2020.csv' - excerpt taken from original herd file
+
+'abs_cattle_totals_2020_transform.ipynb' - notebook that transforms herd size excerpts and creates 'abs_qld_cattle_counts_excerpt.csv'
+
+'abs_qld_cattle_counts_excerpt.csv' - used in the analysis in question_anna_ipynb
+
+'abs_meat_prices.xlsx' - original file of saleyard prices downloaded from Australian Bureau of Statistics
+
+'abs_meat_prices_saleyard_prices_excerpt.csv' - cleaned up excerpt from original saleyard prices file that is used in the analysis in question_anna.ipynb
+
+'flooddata.csv' - weather data generated in 'ingest.ipynb'
 
 ## Data sources
 
