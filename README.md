@@ -37,9 +37,11 @@ Anna
 **Data sources**
 
 - Open Meteo Flood API (GloFAS), yearly 1990-2020, Queensland
-- Ag Output / price data: Saleyard Prices 1991-2017 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)
+- Ag Output / price data:
+  
+  Saleyard Prices 1991-2017 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)
 
-                          Herd Size 1974-2021 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
+  Herd Size 1974-2021 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
 
 **Visualisation**
 
