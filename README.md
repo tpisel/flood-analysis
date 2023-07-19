@@ -100,5 +100,6 @@ Tom
 
 - [Open Meteo Global Flood API](https://open-meteo.com/en/docs/flood-api)
 - [Open Meteo Weather API](https://open-meteo.com/)
-- [Agricultural Data] -- to add
+- [Agricultural Data]: Saleyard Prices (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)
+                       Herd Size (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
 
