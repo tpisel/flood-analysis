@@ -25,7 +25,7 @@ Taryn
 - Autoregression
 
 
-### Question 2: Impact of flooding on cattle headcounts and other agricultural output
+### Question 2: Impact of flooding on cattle headcounts in Queensland and Australian saleyard prices
 
 Anna
 
@@ -33,12 +33,13 @@ Anna
 
 - Excess flooding will decrease cattle head counts
 - Excess flooding will increase cattle prices
-- Flooding impacts will be specific to affected regions
 
 **Data sources**
 
 - Open Meteo Flood API (GloFAS), yearly 1990-2020, Queensland
-- Ag Output / price data (TBD)
+- Ag Output / price data: Saleyard Prices 1991-2017 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020)
+
+                          Herd Size 1974-2021 (https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
 
 **Visualisation**
 
