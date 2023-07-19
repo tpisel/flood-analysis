@@ -1,6 +1,6 @@
 # flood-analysis
 
-Analysing the impact of climate change on Queensland Cattle markets, intermediated by increased flood events
+Analysing the impact of weather, including extreme weather events and climate change, on Queensland's agricultural industries.
 
 
 ## Questions
