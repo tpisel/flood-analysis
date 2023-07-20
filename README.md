@@ -115,9 +115,13 @@ Plots have also been exported to `/visuals`
 - [Open Meteo Global Flood API](https://open-meteo.com/en/docs/flood-api)
 - [Open Meteo Weather API](https://open-meteo.com/)
 - [Open Meteo Climate Change API](https://open-meteo.com/en/docs/climate-api)
-- Agricultural Data: [Saleyard Prices](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020), [Outlooks](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020) and[Herd Size](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
+- Agricultural Data: [Saleyard Prices](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020), [Outlooks](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2020) and [Herd Size](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/data#_2022)
 
 
 ## Conda environment
 
 The environment requirements is stored in `environment.yml` and can be recreated with `conda env create -f environment.yml`.
+
+## Slides
+
+Saved as `Flood_Analysis_final.pptx`
